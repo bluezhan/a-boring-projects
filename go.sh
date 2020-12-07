@@ -1,6 +1,6 @@
 
 # DAY=("Thu Dec 31" "Wed Dec 30" "Tue Dec 29" "Mon Dec 28" "Sun Dec 27")
-for loop in "Mon Nov 30" "Mon Dec 7" "Mon Dec 14" "Tue Dec 8" "Wed Dec 9" "Thu Dec 3" "Thu Dec 10" "Thu Dec 17" "Fri Dec 11" "Fri Dec 4" "Fri Dec 18" "Wed Dec 16" "Wed Dec 2"
+for loop in "Sun Dec 13" "Mon Nov 30" "Mon Dec 7" "Mon Dec 14" "Tue Dec 8" "Wed Dec 9" "Thu Dec 3" "Thu Dec 10" "Thu Dec 17" "Fri Dec 11" "Fri Dec 4" "Fri Dec 18" "Wed Dec 16" "Wed Dec 2"
 do
   date >> cn.graph.info
   git add -A
