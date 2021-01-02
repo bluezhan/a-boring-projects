@@ -4,6 +4,6 @@ for loop in "Sat Jan 2" "Fri Jan 1"
 do
   date >> cn.graph.info
   git add -A
-  git commit --date="$loop 09:09:09 2020 +0800" -m "chore: $loop"
+  git commit --date="$loop 09:09:09 2021 +0800" -m "chore: $loop"
   git push -u origin master
 done	
