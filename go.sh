@@ -6,5 +6,6 @@ do {
   git add -A
   git commit --date="$loop 08:08:08 2021 +0800" -m "chore: $loop"
   git push -u origin master	
+  echo "=================="
 }
 done	
